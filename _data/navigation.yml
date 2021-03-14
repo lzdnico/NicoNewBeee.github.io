@@ -48,3 +48,9 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+  - title:      Google
+    url:        https://www.google.com
+
+  - title:      Youtube
+    url:        https://www.youtube.com
